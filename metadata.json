@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard de Ferreterías de Pasto - Cámara de Comercio & SENA",
+  "description": "Dashboard interactivo de rendimiento y geolocalización del sector ferretero de San Juan de Pasto. Elaborado por Edgar Fernando Ayala Quitiaquez.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
